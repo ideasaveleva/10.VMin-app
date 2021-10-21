@@ -1,1 +1,3 @@
-# 10.wdb-app
+# 10.VMin-app
+
+Implemented a list of adding and removing elements
